@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DAM-Semana06_01_ConstrainLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/DAM-Semana06_01_ConstrainLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DAM-Semana06_01_ConstrainLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DAM-Semana06_01_ConstrainLayout.app.iml" />
+    </modules>
+  </component>
+</project>
